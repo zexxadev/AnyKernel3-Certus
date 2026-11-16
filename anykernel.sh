@@ -4,8 +4,8 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Lotus Kernel
-maintainer.string1=Hadenix
+kernel.string=Zexxa Kernel
+maintainer.string1=ZexxaDev
 do.devicecheck=1
 do.modules=0
 do.systemless=1
